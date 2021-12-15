@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aoun-Abu-Hassan
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning APIS
+- 🌱 I’m currently learning API'S
 - 💞️ I’m looking to collaborate on nothing rightnow
 - 📫 How to reach me aounabuhassan@gmail.com
 
