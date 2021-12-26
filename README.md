@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aoun-Abu-Hassan
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MEAN STACK
+- 🌱 I’m currently learning MERN STACK
 - 💞️ I’m looking to collaborate on nothing rightnow
 - 📫 How to reach me aounabuhassan@gmail.com
 
