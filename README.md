@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aoun Abu Hassan</h1>
-<h3 align="center">A passionate developer from Jordan</h3>
+<h3 align="center">A passionate developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aoun-abu-hassan&label=Profile%20views&color=0e75b6&style=flat" alt="aoun-abu-hassan" /> </p>
 
