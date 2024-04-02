@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Pc , Software**
 
-- 📫 How to reach me **Discord : _0t.**
+- 📫 How to reach me **Discord : [_0t.](https://discord.com/users/473400524633276426)**
 
 - ⚡ Fun fact **Hard Work**
 
