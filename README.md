@@ -14,6 +14,8 @@
 
 - 📫 How to reach me **Discord : [_0t.](https://discord.com/users/473400524633276426)**
 
+- 🛒 Store : **[RSS](https://discord.gg/VzSHHHAsTG)**
+
 - ⚡ Fun fact **Hard Work**
 
 <h3 align="left">Connect with me 💜:</h3>
