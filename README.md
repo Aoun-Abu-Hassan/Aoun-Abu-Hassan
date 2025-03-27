@@ -8,15 +8,15 @@
 
 [![](https://visitcount.itsvg.in/api?id=Beshoo-o&style=flat&label=Profile%20Views&color=5&icon=7&pretty=true)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on **LogIn Bot**
+- 🔭 I’m currently working on **Ticketing System**
 
-- 💬 Ask me about **Pc , Software**
+- 💬 Ask me about **Hardware, Software**
 
 - 📫 How to reach me **Discord : [_0t.](https://discord.com/users/473400524633276426)**
 
-- 🛒 Store : **[RSS](https://discord.gg/VzSHHHAsTG)**
+- 🛒 Support Server : **[RSS](https://discord.gg/VzSHHHAsTG)**
 
-- ⚡ Fun fact **Hard Worker**
+- ⚡Fact **Hard Worker**
 
 <h3 align="left">Connect with me 💜:</h3>
 <p align="left">
