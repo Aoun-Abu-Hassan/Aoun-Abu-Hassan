@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Hardware, Software**
 
-- 📫 How to reach me **Discord : [_0t.](https://discord.com/users/473400524633276426)**
+- 📫 How to reach me on **Discord : [_0t.](https://discord.com/users/473400524633276426)**
 
 - 🛒 Support Server : **[RSS](https://discord.gg/VzSHHHAsTG)**
 
