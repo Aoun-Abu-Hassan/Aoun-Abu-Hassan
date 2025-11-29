@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aoun Abu Hassan
 
-**Developer | Tech Enthusiast | Based in Jordan**
+**Developer | Tech Enthusiast **
 
 Currently building a modern **Ticketing System**, and passionate about both **hardware and software** development.
 
